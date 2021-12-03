@@ -12,7 +12,7 @@ import javax.swing.*;
  * https://docs.oracle.com/javase/7/docs/api/javax/swing/JOptionPane.html
  * .showInputDialog() .showMessageDialog()
  *
- * @author shashanka ravi chaparala
+ * @author shashanka ravi ch
  */
 public class GuessingGameshashank {
 
